@@ -1,2 +1,2 @@
 # AR
-Some augmented reality basic apps.
+Some basic apps using augmented reality.
