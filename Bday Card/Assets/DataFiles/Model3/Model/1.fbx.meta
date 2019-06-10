@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: ae2d2247925fdb64ab13a68ae81114a1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bone001
+    100004: Object001
+    100006: Windmill_Glass
+    100008: Windmill_Metal_Pitted
+    100010: Windmill_Mullions_Wood
+    100012: Windmill_RoofTiles
+    100014: Windmill_Wood_Beams
+    100016: Windmill_WoodDark
+    100018: Windmill_WoodDark 1
+    400000: //RootNode
+    400002: Bone001
+    400004: Object001
+    400006: Windmill_Glass
+    400008: Windmill_Metal_Pitted
+    400010: Windmill_Mullions_Wood
+    400012: Windmill_RoofTiles
+    400014: Windmill_Wood_Beams
+    400016: Windmill_WoodDark
+    400018: Windmill_WoodDark 1
+    2100000: Wood_Beams
+    2100002: RoofTiles
+    2100004: Metal_Pitted
+    2100006: WoodDark
+    2100008: Mullions_Wood
+    2100010: 'Material #51'
+    2100012: 'Material #50'
+    2100014: 'Material #49'
+    2300000: Windmill_Glass
+    2300002: Windmill_Metal_Pitted
+    2300004: Windmill_Mullions_Wood
+    2300006: Windmill_RoofTiles
+    2300008: Windmill_Wood_Beams
+    2300010: Windmill_WoodDark
+    2300012: Windmill_WoodDark 1
+    3300000: Windmill_Glass
+    3300002: Windmill_Metal_Pitted
+    3300004: Windmill_Mullions_Wood
+    3300006: Windmill_RoofTiles
+    3300008: Windmill_Wood_Beams
+    3300010: Windmill_WoodDark
+    3300012: Windmill_WoodDark 1
+    4300000: Windmill_Wood_Beams
+    4300002: Windmill_RoofTiles
+    4300004: Windmill_Metal_Pitted
+    4300006: Windmill_WoodDark
+    4300008: Windmill_Mullions_Wood
+    4300010: Windmill_Glass
+    4300012: Windmill_WoodDark
+    4300014: Object001
+    7400000: rotate_windmill
+    9500000: //RootNode
+    13700000: Object001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #49'
+    second: {fileID: 2100000, guid: 1eaf27c70786ce141ac790cbcbcd4c17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #50'
+    second: {fileID: 2100000, guid: d20988be4c3cbfb4ba4732aab6484aad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #51'
+    second: {fileID: 2100000, guid: 8170b8b1ff4e1ed4c9d9d1daf34e4453, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Pitted
+    second: {fileID: 2100000, guid: 0ba98a625e37a4348b3453b15c215701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mullions_Wood
+    second: {fileID: 2100000, guid: 52e57da3738d6b0408111fc9f72ed58d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofTiles
+    second: {fileID: 2100000, guid: 1e1284cf42b151248a9cf75db812e779, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodDark
+    second: {fileID: 2100000, guid: 45ce81b1513fac2469de009e40e4f8f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood_Beams
+    second: {fileID: 2100000, guid: 977048f6d8b69344287ccbbfa12c7c83, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: rotate_windmill
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
