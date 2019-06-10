@@ -1,5 +1,6 @@
 # AR
 ### Vuforia
+### AR Core
 ### Unity3D
 ### C#
-Augmented Reaelity || Some Trial Apps 
+Augmented Reality || Some Basic AR Applications
